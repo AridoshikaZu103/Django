@@ -22,3 +22,11 @@ Explanation:
 - Templates/ → Contains HTML files for rendering the UI.
 - views.py → Handles user requests and returns responses.
 - urls.py → Defines URL patterns for navigation.
+
+💻 [Execution]
+- Step 1️⃣: Run Migrations
+    -- Run `python manage.py migrate` 
+- Step 2️⃣: Start Django Server
+    -- Run `python manage.py runserver` 
+
+Now, open http://127.0.0.1:8000/ in your browser! 🎉
