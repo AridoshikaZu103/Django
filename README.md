@@ -17,8 +17,8 @@ A simple Django-based currency converter that converts **US Dollars (USD) to Ind
 ## **📂 Project Structure**
 
 Explanation:
-1)converter_app/ → Your main Django app, handling currency conversion logic.
-2)static/ → Holds CSS, JS, and images for frontend design.
-3)templates/ → Contains HTML files for rendering the UI.
-4)views.py → Handles user requests and returns responses.
-5)urls.py → Defines URL patterns for navigation.
+- Converter_app/ → Your main Django app, handling currency conversion logic.
+- Static/ → Holds CSS, JS, and images for frontend design.
+- Templates/ → Contains HTML files for rendering the UI.
+- views.py → Handles user requests and returns responses.
+- urls.py → Defines URL patterns for navigation.
