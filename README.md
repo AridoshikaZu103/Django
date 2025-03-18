@@ -30,7 +30,7 @@ Explanation:
 - Step 2️⃣: Create a Django Project
     -- Run `django-admin startproject myproject`
     -- Run  `cd myproject` 
-- Step 3️⃣: Create an App (Django projects can have multiple apps)
+- Step 3️⃣: Create an App (Django projects can have multiple apps)   
     -- Run `python manage.py startapp myapp`
     **Add myapp to INSTALLED_APPS in settings.py:**
     ![alt text](image.png)
