@@ -32,7 +32,7 @@ Explanation:
     -- Run  `cd myproject` 
 - Step 3️⃣: Create an App (Django projects can have multiple apps)
     -- Run `python manage.py startapp myapp`
-    Add myapp to INSTALLED_APPS in settings.py:
+    ##Add myapp to INSTALLED_APPS in settings.py:
     ![alt text](image.png)
 - Step 4️⃣: Run Migrations
     -- Run `python manage.py migrate` 
