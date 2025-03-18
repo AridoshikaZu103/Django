@@ -23,7 +23,7 @@ Explanation:
 - views.py → Handles user requests and returns responses.
 - urls.py → Defines URL patterns for navigation.
 
- **💻 [Execution]**
+# **💻 [Execution]**
 - Step 1️⃣: Run Migrations
     -- Run `python manage.py migrate` 
 - Step 2️⃣: Start Django Server
