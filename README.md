@@ -43,4 +43,6 @@ Now, open http://127.0.0.1:8000/ in your browser! 🎉
 #           OR
 - **Add IVP_Address to ALLOWED_HOSTS in settings.py:**
     ![alt text](image-1.png)
+- Start Django Server
+    - Run `python manage.py runserver xxx.xxx.xxx.xx:8000` 
 - 🟩green box icon "CODE" --> local -->📁[DOWNLOAD]
