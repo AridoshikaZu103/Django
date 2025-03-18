@@ -40,4 +40,4 @@ Explanation:
     - Run `python manage.py runserver` 
 
 Now, open http://127.0.0.1:8000/ in your browser! 🎉
-green box icon "CODE" --> local -->📁[DOWNLOAD]
+- 🟩green box icon "CODE" --> local -->📁[DOWNLOAD]
