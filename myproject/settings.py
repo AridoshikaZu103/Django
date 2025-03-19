@@ -25,9 +25,7 @@ SECRET_KEY = 'django-insecure-)xrp9u3pm$ne(_h*3bu+l7hv3a7o6a0pe5i$h!=-n39^+%l9*z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-## allowed localhost : ALLOWED_HOSTS = ['xxx.xxx.xxx.xx:8000'] <--Add This
-# You can access your application from other devices on the same network using this IP address and port
-ALLOWED_HOSTS = []   
+ALLOWED_HOSTS = []
 
 
 # Application definition
