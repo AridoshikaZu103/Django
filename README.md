@@ -45,4 +45,4 @@ Now, open http://127.0.0.1:8000/ in your browser! 🎉
     ![alt text](image-1.png)
 - Start Django Server
     - Run `python manage.py runserver xxx.xxx.xxx.xx:8000` 
-- 🟩green box icon "CODE" --> local -->📁[DOWNLOAD]
+## **🟩green box icon "CODE" --> local -->📁[DOWNLOAD ZIP]**
