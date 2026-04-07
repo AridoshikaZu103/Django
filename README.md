@@ -40,7 +40,7 @@ Explanation:
     - Run `python manage.py runserver` 
 
 Now, open http://127.0.0.1:8000/ in your browser! 🎉
-#           OR
+### OR
 - **Add Your IVP_Address to ALLOWED_HOSTS in settings.py:**
     ![alt text](image-1.png)
 - Start Django Server
